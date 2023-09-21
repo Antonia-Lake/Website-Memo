@@ -4,8 +4,8 @@
 - emoji合集网站 [所有Emoji表情符号 - 颜文字单页合集 - EmojiXD](https://emojixd.com/list)
 
 ## Airport ✈️
-1. [GLaDOS，免费](https://glados.rocks/)
-2. [一元机场，每月1r，还要什么自行车](https://一元机场.com/)
+1. [GLaDOS 免费](https://glados.rocks/)
+2. [一元机场 每月1r 还要什么自行车](https://一元机场.com/)
 ## 电子书📘
 lorefree、jiumo、Library Genesis、ebook.chongbuluo.com、z-library、myanonamouse.net、electronic library (2lib. org)
 
