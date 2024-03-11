@@ -35,3 +35,6 @@ lorefree、jiumo、Library Genesis、ebook.chongbuluo.com、z-library、myanonam
 
 ## 保研
 1. [研控，导师评价get](https://www.yankong.org/)
+
+## 尝试用Git从本地commit
+成功了！！！
